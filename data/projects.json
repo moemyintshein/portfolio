@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Smart Agri App",
+        "description": "IoT-based system to monitor soil moisture and temperature.",
+        "link": "https://github.com/username/smart-agri"
+    },
+    {
+        "title": "Portfolio Website",
+        "description": "This personal website built with Flask and Bootstrap.",
+        "link": "https://yourdomain.com"
+    }
+]
